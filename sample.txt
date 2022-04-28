@@ -1,0 +1,107 @@
+Object: Astrazeneca
+Brand of: Vaccine
+Developed by: Oxford
+Prevents: Severed Covid
+
+Object: BTS
+Type of music: K-pop
+Famous: K-pop group
+Latest song: Butter
+
+Object: Dachshund
+Breed of: Dog
+Looks like: Hotdog
+Size: Small
+
+Object: Hiroshima
+Prefecture of: Japan
+Famous food: Okonomiyaki
+Famous snack: Momiji Manjuu
+
+Object: Industrial Engg
+Branch of: Engineering
+Deals with: Optimizing processes
+Requires profiency in: MS Excel
+Typical positions: Managerial
+
+Object: Lenovo
+Brand of: Laptop/Smartphone/tech gear
+Based in: China
+
+Object: Michael Jackson
+Famous line: Hee-hee
+Known for: Pop music
+Known as: King of Pop
+
+Object: Pfizer
+Brand of: Vaccine
+Based in: America
+
+Object: Pikachu
+Type of: Pokemon
+Color: Yellow
+Looks like: Yellow mouse
+
+Object: Rizal
+Famous: Filipino
+Known for: Noli Me Tangere
+Known for: El Filibusterismo
+Died in: Luneta
+
+Object: Taft
+Name of: Road
+Location: Manila
+Name of: MRT Station
+Based on: American man
+
+Object: aircon
+Type of: Appliance
+Requires: Electricity
+Removes: Warm air
+Famous brand: American Standard
+Function: Lowers room temperature
+Variation: Inverter
+Requires: Filter
+Prone to: Collecting dust
+Famous brand: LG
+Instance of: Refrigerator
+
+Object: anime
+Type of: Entertainment
+Produced in: Japan
+Loved by: Otakus
+Broadcasted on: TV
+Language: Japanese
+
+Object: boxing
+Type of: Sport
+Famous athlete: Manny Pacquiao
+Broadcasted on: Pay-per-view TV
+
+Object: covid
+Type of: Disease
+Mode of transmission: Airborne
+Prevent by: Wearing a mask
+
+Object: equilibrium
+Occurs when: Zero net force
+
+Object: figure skating
+Type of: Sport
+Sport in: Winter Olympics
+Performed on: Ice
+Uses: Skates
+
+Object: python
+Type of: Programming language
+Class: Reptilia
+
+Object: ramen
+Type of: Food
+Origin: Japan
+Famous restaurant: Ippudo
+
+Object: VS Code
+Type of: IDE
+Made by: Microsoft
+
